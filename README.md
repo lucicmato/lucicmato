@@ -26,8 +26,8 @@ Next.js App Router • TypeScript • Supabase • Server Actions • PWA • We
 → [Live demo](https://family-app-two-eosin.vercel.app) · [GitHub](https://github.com/lucicmato/family-app)
 
 ### Other work
-- [SaaS Dashboard Demo](https://github.com/lucicmato/dashboard-saas-demo) — Next.js + Supabase production-style dashboard
+Additional client projects are under NDA and remain private.
 
 ### Currently
-- Building AI-enhanced web applications
-- ### Open for remote part-time / freelance work 
+- Building AI-enhanced features into real production apps
+- Open for remote part-time / freelance work (~15-20h/week)
